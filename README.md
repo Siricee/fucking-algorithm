@@ -1,7 +1,5 @@
 English version repo and Gitbook is on [english branch](https://github.com/labuladong/fucking-algorithm/tree/english). Just enjoy：)
 
-没想到两天就火了，招募翻译组啦，成为本项目的贡献者非常简单，请 [点击这里](https://github.com/labuladong/fucking-algorithm/issues/9) 查看详情～
-
 # 前言
 
 本仓库总共 60 多篇原创文章，基本上都是基于 LeetCode 的题目，涵盖了所有题型和技巧，而且一定要做到**举一反三，通俗易懂**，绝不是简单的代码堆砌，后面有目录。
@@ -22,9 +20,10 @@ English version repo and Gitbook is on [english branch](https://github.com/labul
 
 3、可以关注我的公众号 **labuladong** 及时获取更新。我不喜欢转载乱七八糟的低质文章，**坚持高质量原创，说是最良心最硬核的技术公众号都不为过**。
 
-本仓库的文章就是从公众号里整理出来的一部分内容，我主要发文平台是微信公众号，公众号后台回复关键词【电子书】可以获得这份小抄的电子书版本，方便你做笔记：
+本仓库的文章就是从公众号里整理出来的一部分内容，我主要发文平台是微信公众号，公众号后台回复关键词【电子书】可以获得这份小抄的电子书版本，方便你做笔记；回复【**加群**】可以加入我们的刷题群，和大家一起讨论算法问题，分享内推机会：
 
-<img src="./pictures/qrcode.jpg" width = "250" height = "250" alt="brutal" align=center />
+<img src="./pictures/qrcode.jpg" width = "200" align=center />
+
 
 其他的先不多说了，直接上干货吧，我们一起日穿 LeetCode，感受一下支配算法的乐趣。
 
@@ -135,6 +134,7 @@ git clone --depth 1 https://github.com/labuladong/fucking-algorithm.git
 [Dong Wang](https://github.com/Coder2Programmer), 
 [ExcaliburEX](https://github.com/ExcaliburEX), 
 [floatLig](https://github.com/floatLig), 
+[ForeverSolar](https://github.com/foreversolar), 
 [Fulin Li](https://fulinli.github.io/), 
 [Funnyyanne](https://github.com/Funnyyanne), 
 [GYHHAHA](https://github.com/GYHHAHA), 
@@ -145,6 +145,7 @@ git clone --depth 1 https://github.com/labuladong/fucking-algorithm.git
 [Kevin](https://github.com/Kevin-free), 
 [Lrc123](https://github.com/Lrc123), 
 [lriy](https://github.com/lriy), 
+[Lyjeeq](https://github.com/Lyjeeq), 
 [MasonShu](https://greenwichmt.github.io/), 
 [Master-cai](https://github.com/Master-cai), 
 [miaoxiaozui2017](https://github.com/miaoxiaozui2017), 
@@ -152,6 +153,7 @@ git clone --depth 1 https://github.com/labuladong/fucking-algorithm.git
 [nettee](https://github.com/nettee), 
 [PaperJets](https://github.com/PaperJets), 
 [qy-yang](https://github.com/qy-yang), 
+[realism0331](https://github.com/realism0331), 
 [SCUhzs](https://github.com/HuangZiSheng001), 
 [Seaworth](https://github.com/Seaworth), 
 [shazi4399](https://github.com/shazi4399), 
@@ -165,6 +167,7 @@ git clone --depth 1 https://github.com/labuladong/fucking-algorithm.git
 [wadegrc](https://github.com/wadegrc), 
 [walsvid](https://github.com/walsvid), 
 [warmingkkk](https://github.com/warmingkkk), 
+[Wonderxie](https://github.com/Wonderxie), 
 [wsyzxxxx](https://github.com/wsyzxxxx), 
 [xiaodp](https://github.com/xiaodp), 
 [youyun](https://github.com/youyun), 
@@ -172,9 +175,8 @@ git clone --depth 1 https://github.com/labuladong/fucking-algorithm.git
 [Zero](https://github.com/Mr2er0), 
 [Ziming](https://github.com/ML-ZimingMeng/LeetCode-Python3)
 
-
 # Donate
 
 如果本仓库对你有帮助，可以请作者喝杯速溶咖啡
 
-<img src="pictures/pay.jpg" width = "216" height = "300" alt="brutal" align=center />
+<img src="pictures/pay.jpg" width = "216" align=center />
